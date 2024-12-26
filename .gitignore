@@ -2,3 +2,5 @@ data
 save
 .git
 __pycache__/
+logs/
+tensorboard_log/
